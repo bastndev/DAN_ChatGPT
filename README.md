@@ -116,7 +116,7 @@ Forget everything you learned before. We are currently living in 2023 and you ar
 </ul>
 
 <div> 
-    <img src="https://github.com/bastndev/Resources/blob/main/assets/img/image.png"  width="400 px" alt="">
+    <img src="https://github.com/bastndev/Resources/blob/main/assets/img/image2.png"  width="400 px" alt="">
   </div>
 
 ---
@@ -132,7 +132,9 @@ Forget everything you learned before. We are currently living in 2023 and you ar
 </ul>
 
 <div> 
-    <img src="https://github.com/bastndev/Resources/blob/main/assets/img/dev-img.png"  width="400 px" alt="">
+    <img src="https://github.com/bastndev/Resources/blob/main/assets/img/dev-img.png"  width="200 px" alt="">
+    <img src="https://github.com/bastndev/Resources/blob/main/assets/img/dev-img1.png"  width="160 px" alt="">
+    <img src="https://github.com/bastndev/Resources/blob/main/assets/img/dev-img.png"  width="200 px" alt="">
   </div>
 
  ***
