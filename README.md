@@ -1,6 +1,6 @@
 # **DAN** ChatGPT (prompts)
 
-😈 Use this Prompt wisely to make conscious decisions and achieve your goals.
+👼 Use this Prompt wisely to make conscious decisions and achieve your goals.😈 
 
 **prompts Click and Copy 👇**
 
